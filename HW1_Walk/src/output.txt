@@ -1,0 +1,7 @@
+0 java/info/kgeorgiy/java/advanced/walk/samples/1
+0 java/info/kgeorgiy/java/advanced/walk/samples/12
+0 java/info/kgeorgiy/java/advanced/walk/samples/123
+0 java/info/kgeorgiy/java/advanced/walk/samples/1234
+0 java/info/kgeorgiy/java/advanced/walk/samples/1
+0 java/info/kgeorgiy/java/advanced/walk/samples/binary
+0 java/info/kgeorgiy/java/advanced/walk/samples/no-such-file
